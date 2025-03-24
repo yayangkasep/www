@@ -1,3 +1,8 @@
+// Fungsi untuk memformat angka ke format Rupiah (5,500, 10,000, dst.)
+function formatRupiah(angka) {
+    return angka.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
 function generateJSON() {
     const namaList = document.getElementById("namaInput").value.trim().split("\n");
     const hargaList = document.getElementById("hargaInput").value.trim().split("\n");
@@ -12,7 +17,7 @@ function generateJSON() {
 
         if (nama && harga && barcode) {
             jsonData[nama] = {
-                "price": harga,
+                "price": formatRupiah(harga),
                 "barcode": barcode
             };
         }
