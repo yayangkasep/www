@@ -1,0 +1,458 @@
+{
+  "BEBELAC 3 MADU 1000 GR": {
+    "price": "180,500",
+    "barcode": "8990057723392"
+  },
+  "BEBELAC 3 MADU 1800 GR": {
+    "price": "312,000",
+    "barcode": "8990057982737"
+  },
+  "BEBELAC 3 MADU 400 GR": {
+    "price": "73,500",
+    "barcode": "8990057782733"
+  },
+  "BEBELAC 3 MADU 620 GR": {
+    "price": "111,000",
+    "barcode": "8990057985837"
+  },
+  "BEBELAC 3 MADU 800 GR": {
+    "price": "150,300",
+    "barcode": "8990057882730"
+  },
+  "BEBELAC 3 VANILA 1000 GR": {
+    "price": "180,500",
+    "barcode": "8990057723408"
+  },
+  "BEBELAC 3 VANILA 1800 GR": {
+    "price": "312,000",
+    "barcode": "8990057982744"
+  },
+  "BEBELAC 3 VANILA 400 GR": {
+    "price": "73,500",
+    "barcode": "8990057782740"
+  },
+  "BEBELAC 3 VANILA 620 GR": {
+    "price": "111,000",
+    "barcode": "8990057985844"
+  },
+  "BEBELAC 3 VANILA 800 GR": {
+    "price": "150,300",
+    "barcode": "8990057882747"
+  },
+  "BEBELAC 4 MADU 1000GR": {
+    "price": "172,000",
+    "barcode": "8990057981150"
+  },
+  "BEBELAC 4 MADU 1800 GR": {
+    "price": "292,000",
+    "barcode": "8990057982751"
+  },
+  "BEBELAC 4 MADU 400 GR": {
+    "price": "69,000",
+    "barcode": "8990057782757"
+  },
+  "BEBELAC 4 MADU 800 GR": {
+    "price": "137,000",
+    "barcode": "8990057882754"
+  },
+  "BEBELAC 4 VANILA 1000 GR": {
+    "price": "172,000",
+    "barcode": "8990057981143"
+  },
+  "BEBELAC 4 VANILA 1800 GR": {
+    "price": "292,000",
+    "barcode": "8990057982768"
+  },
+  "BEBELAC 4 VANILA 400 GR": {
+    "price": "69,000",
+    "barcode": "8990057782764"
+  },
+  "BEBELAC 4 VANILA 800 GR": {
+    "price": "137,000",
+    "barcode": "8990057882761"
+  },
+  "BEBELAC GOLD 3 MADU 700 GR": {
+    "price": "149,000",
+    "barcode": "8990057705343"
+  },
+  "BEBELAC GOLD 3 VANILA 360 GR": {
+    "price": "79,500",
+    "barcode": "8990057726416"
+  },
+  "BEBELAC GOLD 3 VANILA 700 GR": {
+    "price": "149,000",
+    "barcode": "8990057705350"
+  },
+  "BEBELAC GOLD SOYA 3 VANILA 700 GR": {
+    "price": "151,000",
+    "barcode": "8990057985172"
+  },
+  "NUTRILON ROYAL 3 MADU 400 GR": {
+    "price": "109,000",
+    "barcode": "8990057746315"
+  },
+  "NUTRILON ROYAL 3 MADU 800 GR": {
+    "price": "215,500",
+    "barcode": "8990057816315"
+  },
+  "NUTRILON ROYAL 3 VANILA 400 GR": {
+    "price": "109,000",
+    "barcode": "8990057406301"
+  },
+  "NUTRILON ROYAL 3 VANILA 800 GR": {
+    "price": "215,500",
+    "barcode": "8990057806309"
+  },
+  "NUTRILON ROYAL 4 MADU 400 GR": {
+    "price": "104,000",
+    "barcode": "8990057816421"
+  },
+  "NUTRILON ROYAL 4 MADU 800 GR": {
+    "price": "203,500",
+    "barcode": "8990057816414"
+  },
+  "NUTRILON ROYAL 4 VANILA 1800": {
+    "price": "437,500",
+    "barcode": "8990057981235"
+  },
+  "NUTRILON ROYAL 4 VANILA 400 GR": {
+    "price": "104,000",
+    "barcode": "8990057406400"
+  },
+  "NUTRILON ROYAL 4 VANILA 800 GR": {
+    "price": "203,500",
+    "barcode": "8990057806408"
+  },
+  "NUTRILON ROYAL ACTI DUOBIO 3 RASA MADU 1800 GR": {
+    "price": "460,500",
+    "barcode": "8990057981075"
+  },
+  "NUTRILON ROYAL ACTI DUOBIO 3 VANILA 1800 GR": {
+    "price": "460,500",
+    "barcode": "8990057981068"
+  },
+  "CHILKID MADU 1560 GR": {
+    "price": "322,500",
+    "barcode": "8992802003049"
+  },
+  "CHILKID MADU 390GR": {
+    "price": "85,500",
+    "barcode": "8992802003018"
+  },
+  "CHILKID MADU 780GR": {
+    "price": "167,000",
+    "barcode": "8992802180146"
+  },
+  "CHILKID MADU 985 GR": {
+    "price": "205,000",
+    "barcode": "8992802003278"
+  },
+  "CHILKID PHP 400 GR": {
+    "price": "162,000",
+    "barcode": "8992802071017"
+  },
+  "CHILKID PHP 800 GR": {
+    "price": "322,000",
+    "barcode": "8992802071024"
+  },
+  "CHILKID PLATINUM MADU 400 GR": {
+    "price": "149,500",
+    "barcode": "8992802004015"
+  },
+  "CHILKID PLATINUM MADU 800 GR": {
+    "price": "285,500",
+    "barcode": "8992802004039"
+  },
+  "CHILKID PLATINUM VANILA 200 GR": {
+    "price": "78,500",
+    "barcode": "8992802004138"
+  },
+  "CHILKID PLATINUM VANILA 400 GR": {
+    "price": "149,500",
+    "barcode": "8992802004022"
+  },
+  "CHILKID PLATINUM VANILA 800 GR": {
+    "price": "285,500",
+    "barcode": "8992802004046"
+  },
+  "CHILKID SOYA 600 GR": {
+    "price": "138,500",
+    "barcode": "8992802067027"
+  },
+  "CHILKID SOYA MADU 200 GR": {
+    "price": "47,500",
+    "barcode": "8992802067133"
+  },
+  "CHILKID SOYA VANILA 200 GR": {
+    "price": "47,500",
+    "barcode": "8992802067119"
+  },
+  "CHILKID SOYA VANILA 600GR": {
+    "price": "138,500",
+    "barcode": "8992802067140"
+  },
+  "CHILKID VANILA 1560 GR": {
+    "price": "322,500",
+    "barcode": "8992802003032"
+  },
+  "CHILKID VANILA 390GR": {
+    "price": "85,500",
+    "barcode": "8992802003025"
+  },
+  "CHILKID VANILA 780GR": {
+    "price": "167,000",
+    "barcode": "8992802180153"
+  },
+  "CHILKID VANILA 985 GR": {
+    "price": "205,000",
+    "barcode": "8992802003285"
+  },
+  "CHILSCHOOL COKLAT 780GR": {
+    "price": "147,500",
+    "barcode": "8992802180030"
+  },
+  "CHILSCHOOL MADU 1560 GR": {
+    "price": "284,500",
+    "barcode": "8992802001144"
+  },
+  "CHILSCHOOL MADU 390GR": {
+    "price": "77,000",
+    "barcode": "8992802001120"
+  },
+  "CHILSCHOOL MADU 780GR": {
+    "price": "147,500",
+    "barcode": "8992802001137"
+  },
+  "CHILSCHOOL PLATINUM COKLAT 800 GR": {
+    "price": "233,500",
+    "barcode": "8992802002042"
+  },
+  "CHILSCHOOL PLATINUM MADU 800 GR": {
+    "price": "233,500",
+    "barcode": "8992802002059"
+  },
+  "CHILSCHOOL PLATINUM VANILA 800 GR": {
+    "price": "23,350",
+    "barcode": "8992802002066"
+  },
+  "CHILSCHOOL SOYA MADU 600GR": {
+    "price": "129,000",
+    "barcode": "8992802068116"
+  },
+  "CHILSCHOOL SOYA VANILA 600GR": {
+    "price": "129,000",
+    "barcode": "8992802068123"
+  },
+  "CHILSCHOOL STRAWBERRY 780GR": {
+    "price": "147,500",
+    "barcode": "8992802180047"
+  },
+  "CHILSCHOOL VANILA 1560 GR": {
+    "price": "284,500",
+    "barcode": "8992802001151"
+  },
+  "CHILSCHOOL VANILA 390GR": {
+    "price": "77,000",
+    "barcode": "8992802140119"
+  },
+  "CHILSCHOOL VANILA 780GR": {
+    "price": "147,500",
+    "barcode": "8992802180085"
+  },
+  "MORIGRO MADU 200 GR": {
+    "price": "83,000",
+    "barcode": "8992802120081"
+  },
+  "MORIGRO MADU 400 GR": {
+    "price": "149,500",
+    "barcode": "8992802120197"
+  },
+  "MORIGRO MADU 800 GR": {
+    "price": "289,000",
+    "barcode": "8992802120166"
+  },
+  "MORIGRO VANILA 400 GR": {
+    "price": "149,500",
+    "barcode": "8992802120111"
+  },
+  "MORIGRO VANILLA 200 GR": {
+    "price": "83,000",
+    "barcode": "8992802120180"
+  },
+  "MORIGRO VANILLA 800 GR": {
+    "price": "289,000",
+    "barcode": "8992802120173"
+  },
+  "PRENAGEN EMESIS LOVELY STRAWBERRY 180GR": {
+    "price": "44,500",
+    "barcode": "8992802021135"
+  },
+  "PRENAGEN ESENSIS RASA COKELAT 360 GR": {
+    "price": "67,000",
+    "barcode": "8992802236010"
+  },
+  "PRENAGEN LACTA COKELAT 360GR": {
+    "price": "80,500",
+    "barcode": "8992802240178"
+  },
+  "PRENAGEN LACTA VANILA 360GR": {
+    "price": "80,500",
+    "barcode": "8992802240185"
+  },
+  "PRENAGEN LOVA COKELAT 120 GR": {
+    "price": "17,500",
+    "barcode": "8992802114011"
+  },
+  "PRENAGEN LOVA STRAWBERRY 120 GR": {
+    "price": "17,500",
+    "barcode": "8992802114028"
+  },
+  "PRENAGEN MOMMY ALMOND SOYA 180GR": {
+    "price": "45,500",
+    "barcode": "8992802112017"
+  },
+  "PRENAGEN MOMMY COKELAT 180GR": {
+    "price": "43,000",
+    "barcode": "8992802220019"
+  },
+  "PRENAGEN MOMMY COKELAT 360GR": {
+    "price": "80,500",
+    "barcode": "8992802240093"
+  },
+  "PRENAGEN MOMMY COKLAT 600 GR": {
+    "price": "114,000",
+    "barcode": "8992802260077"
+  },
+  "PRENAGEN MOMMY EMESIS COKELAT 360GR": {
+    "price": "80,500",
+    "barcode": "8992802021029"
+  },
+  "PRENAGEN MOMMY EMESIS VANILA DELIGHT 360GR": {
+    "price": "80,500",
+    "barcode": "8992802021012"
+  },
+  "PRENAGEN MOMMY STRAWBERRY 360GR": {
+    "price": "80,500",
+    "barcode": "8992802240116"
+  },
+  "PRENAGEN MOMMY STRAWBERY 180GR": {
+    "price": "43,000",
+    "barcode": "8992802220033"
+  },
+  "PRENAGEN MOMMY VANILA 180GR": {
+    "price": "43,000",
+    "barcode": "8992802220040"
+  },
+  "PRENAGEN MOMMY VANILA 360GR": {
+    "price": "80,500",
+    "barcode": "8992802240123"
+  },
+  "ENFAGROW A+ 3 MADU 400 GR": {
+    "price": "185,000",
+    "barcode": "8712045017678"
+  },
+  "ENFAGROW A+ 3 MADU 800 GR": {
+    "price": "349,000",
+    "barcode": "8712045016633"
+  },
+  "ENFAGROW A+ 3 PLAIN 1800 G": {
+    "price": "795,000",
+    "barcode": "300875121627"
+  },
+  "ENFAGROW A+ 3 PLAIN 400 G": {
+    "price": "189,000",
+    "barcode": "300875121566"
+  },
+  "ENFAGROW A+ 3 PLAIN 800 G": {
+    "price": "375,000",
+    "barcode": "300875121573"
+  },
+  "ENFAGROW A+ 3 VANILA 1800 GR": {
+    "price": "769,000",
+    "barcode": "300875111482"
+  },
+  "ENFAGROW A+ 3 VANILA 3000GR": {
+    "price": "1,275,000",
+    "barcode": "300875124956"
+  },
+  "ENFAGROW A+ 3 VANILA 400 GR": {
+    "price": "185,000",
+    "barcode": "8712045016916"
+  },
+  "ENFAGROW A+ 3 VANILA 800 GR": {
+    "price": "349,000",
+    "barcode": "8712045016596"
+  },
+  "ENFAGROW A+ 4 VANILA 1800 GR": {
+    "price": "689,000",
+    "barcode": "300875113745"
+  },
+  "ENFAGROW A+ 4 VANILA 400 GR": {
+    "price": "175,000",
+    "barcode": "8712045016657"
+  },
+  "ENFAGROW A+ 4 VANILA 800 GR": {
+    "price": "305,000",
+    "barcode": "8712045017074"
+  },
+  "ENFAGROW A+3 VANILA 2400GR": {
+    "price": "999,000",
+    "barcode": "300875121788"
+  },
+  "ENFAMAMA RASA COKELAT 400 GR": {
+    "price": "121,000",
+    "barcode": "8712045015858"
+  },
+  "SGM 1+ MADU 400 GR": {
+    "price": "42,500",
+    "barcode": "8999099920684"
+  },
+  "SGM 1+ MADU 600 GR": {
+    "price": "61,400",
+    "barcode": "8999099928611"
+  },
+  "SGM 1+ MADU 900 GR": {
+    "price": "83,500",
+    "barcode": "8999099920691"
+  },
+  "SGM 1+ VANILA 400 GR": {
+    "price": "42,500",
+    "barcode": "8999099920707"
+  },
+  "SGM 1+ VANILA 600 GR": {
+    "price": "61,400",
+    "barcode": "8999099928666"
+  },
+  "SGM 1+ VANILA 900 GR": {
+    "price": "83,500",
+    "barcode": "8999099920714"
+  },
+  "SGM 3+ COKLAT 900 GR": {
+    "price": "79,500",
+    "barcode": "8999099920776"
+  },
+  "SGM 3+ MADU 400 GR": {
+    "price": "41,500",
+    "barcode": "8999099920721"
+  },
+  "SGM 3+ MADU 600GR": {
+    "price": "60,200",
+    "barcode": "8999099928826"
+  },
+  "SGM 3+ MADU 900 GR": {
+    "price": "79,500",
+    "barcode": "8999099920738"
+  },
+  "SGM 3+ VANILA 400 GR": {
+    "price": "41,500",
+    "barcode": "8999099920745"
+  },
+  "SGM 3+ VANILA 600GR": {
+    "price": "60,200",
+    "barcode": "8999099928833"
+  },
+  "SGM 3+ VANILA 900 GR": {
+    "price": "79,500",
+    "barcode": "8999099920752"
+  }
+}
