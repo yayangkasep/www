@@ -1,4 +1,4 @@
-// Fungsi untuk memformat angka ke format Rupiah (5,500, 10,000, dst.)
+// Fungsi untuk memformat angka ke format Rupiah (contoh: 10000 => "10,000")
 function formatRupiah(angka) {
     return angka.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
 }
@@ -9,21 +9,27 @@ function generateJSON() {
     const barcodeList = document.getElementById("barcodeInput").value.trim().split("\n");
 
     let jsonData = {};
+    let outputString = "{\n";
 
     for (let i = 0; i < namaList.length; i++) {
-        let nama = namaList[i]?.trim();
-        let harga = parseInt(hargaList[i]?.trim() || "0", 10);
-        let barcode = barcodeList[i]?.trim() || "";
+        const nama = namaList[i]?.trim();
+        const harga = parseInt(hargaList[i]?.trim() || "0", 10);
+        const barcode = barcodeList[i]?.trim();
 
         if (nama && harga && barcode) {
             jsonData[nama] = {
-                "price": formatRupiah(harga),
-                "barcode": barcode
+                price: formatRupiah(harga), // Harga diformat ke Rupiah
+                barcode: barcode
             };
+
+            // Menambahkan hasil yang diformat dalam bentuk JSON
+            outputString += `  "${nama}": { "price": "${formatRupiah(harga)}", "barcode": "${barcode}" },\n`;
         }
     }
 
-    document.getElementById("output").textContent = JSON.stringify(jsonData, null, 2);
+    // Menghapus koma di akhir dan menutup kurung kurawal JSON
+    outputString = outputString.replace(/,\s*$/, "") + "\n}";
+    document.getElementById("output").textContent = outputString;
 }
 
 function copyJSON() {
@@ -31,7 +37,7 @@ function copyJSON() {
     if (!output) return alert("JSON masih kosong!");
 
     navigator.clipboard.writeText(output).then(() => {
-        alert("JSON berhasil disalin!");
+        alert("JSON berhasil disalin ke clipboard!");
     }).catch(err => {
         console.error("Gagal menyalin JSON", err);
     });
